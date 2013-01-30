@@ -7,7 +7,5 @@ public class helloWorld
       System.out.println("hello world2!\n");
       
       System.out.println("new feature");
-      
-      System.out.println("add more new feature");
   }
 }
